@@ -1,0 +1,72 @@
+body {
+	background-image: url("images/bulb.jpg");
+	font-family: 'Yatra One', cursive;
+}
+
+header h1 { 
+	background-color: black;
+	padding: 1em;
+	text-align: center;
+	text-shadow: grey;
+	color: grey;
+	fonnt-text
+}
+
+div .container {
+	width: 100%
+	border: 10px solid gray;
+}
+
+
+nav {
+	float: left;
+	background-image: url("images/blk.jpg");
+	background-color: gray;
+	max-width: 150px;
+	margin: 11px;
+	padding: 1em;
+}
+ 
+ nav ul {
+ 	list-style-type: none;
+ 	padding: 1px;
+ }
+
+nav li a {
+	text-decoration: none;
+
+}
+
+aside {
+	float: right
+	position: right;
+	display: right;
+	
+}
+
+article {
+	display: block; 
+
+}
+a:link {
+	color: blue;
+
+}
+a:visited { 
+	color: white;
+ }
+
+a:hover{
+	color: white;
+	background: orange;
+
+ }
+
+footer {
+	padding: 1em;
+	color: white;
+	background-color: #2D2D2B;
+	text-align: center;
+}
+
+
